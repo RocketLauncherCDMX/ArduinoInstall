@@ -14,5 +14,6 @@ Si eres de los que les gusta estar bien actualizado, también puedes descargar l
 
 ![image](https://github.com/user-attachments/assets/23f34a5f-ee15-4b68-b488-a2a23bfa2b6c)
 
+Una vez descargado, bastará con ajecutar el instalador, seguir los pasos y abrir Arduino.
 
-Si nunca has programado y no tienes idea de cómo iniciar con los productos de Rocket Launcher, no te preocupes, aquí te explicamos los primeros pasos
+¡Ahora estás listo para comenzar a utilizar los productos de Rocket Launcher!
