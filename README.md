@@ -2,7 +2,7 @@
 
 Si estás en esta página, significa que de hecho ya has dado el primer paso, y has adquirido o piensas adquirir uno de nuestros productos. Muchas gracias por creer en Rocket Launcher.
 
-Ahora, para comenzar, si adquiriste hardware con un microcontrolador reprogramable, el primer paso es descargar el programa que te permitirá interactuar con este. Uno de los programas más fáciles de utilizar para la programación de microcontroladores es **Arduino** y lo primero que debemos hacer es descargarlo. Podrás encontrarlo en el siguiente link:
+Ahora, para comenzar, si adquiriste hardware con un microcontrolador reprogramable, el segundo paso es descargar el programa que te permitirá interactuar con este. Uno de los programas más fáciles de utilizar para la programación de microcontroladores es **Arduino** y lo primero que debemos hacer es descargarlo. Podrás encontrarlo en el siguiente link:
 
 https://www.arduino.cc/en/software/#ide
 
