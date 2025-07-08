@@ -10,7 +10,7 @@ Dentro de la página deberás descender hasta donde dice **Arduino IDE 1.8.19** 
 
 ![image](https://github.com/user-attachments/assets/44420f4b-1dba-4f7f-9a5e-2796cf5c9e4c)
 
-Si eres de los que les gusta estar bien actualizado, también puedes descargar la version 2 de Arduino, un ambiente de desarrollo algo más profesional con alguna mejoras con respecto a la versión 1. Si nunca has programado microcotroladores, nuestra recomendación es la versión 1.
+Si eres de los que les gusta estar bien actualizado, también puedes descargar la version 2 de Arduino, un ambiente de desarrollo algo más profesional con algunas mejoras con respecto a la versión 1. Si nunca has programado microcotroladores, nuestra recomendación es la versión 1.
 
 ![image](https://github.com/user-attachments/assets/23f34a5f-ee15-4b68-b488-a2a23bfa2b6c)
 
